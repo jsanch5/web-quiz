@@ -5,3 +5,8 @@
 - Quiz is timed
 
 - Highest score will be saved at end of test
+
+file:///C:/Users/joshu/bootcamp/web-quiz/index.html
+
+Sources: Stack overflow
+        W3 Schools
